@@ -1,0 +1,78 @@
+{
+    "disease": [
+        {
+            "plant": "Carissa carandas",
+            "disease/activity": "Anti-inflammatory, antioxidant, antibacterial, cytotoxicity, analgesic, antidiabetic, hepatoprotective",
+            "evidence": "Table 1: Chemical composition of Carissa carandas L."
+        },
+        {
+            "plant": "Carissa carandas",
+            "disease/activity": "Antiscorbutic, stomachic, anthelmintic, diabetic ulcer",
+            "evidence": "The root is antiscorbutic, stomachic and anthelmintic. Decoction of the leaves is useful in early stages of remittent fevers."
+        },
+        {
+            "plant": "Catharanthus roseus",
+            "disease/activity": "Diabetes, hypertensive, sedative, tranquillizing",
+            "evidence": "The plant has been used as a folk remedy for diabetes. The root is considered tonic and stomachic."
+        },
+        {
+            "plant": "Nerium oleander",
+            "disease/activity": "Inflammations, chronic pains, headache, scabies",
+            "evidence": "The flowers are good for inflammations, chronic pains in the muscles and the joints, lumbago, headache, and scabies."
+        },
+        {
+            "plant": "Plumeria alba",
+            "disease/activity": "Laxative, herpes, syphilis, ulcers, skin diseases",
+            "evidence": "In addition, the flowers are edible and eaten as fritters, while the heart of the wood is part of a traditional medical preparation taken as a laxative."
+        },
+        {
+            "plant": "Tabernaemontana divaricata",
+            "disease/activity": "Diarrhoea, abdominal complaints, snake and scorpion poisoning, jungle fever, hypertension, headache, scabies",
+            "evidence": "A decoction is used in the treatment of diarrhoea and abdominal complaints."
+        }
+    ],
+    "compound": [
+        {
+            "plant": "Carissa carandas",
+            "compound": "Lupeol, Ursolic acid, Beta-Sitosterol, Carinol, Carindone, Carissone",
+            "evidence": "Table 1: Chemical composition of Carissa carandas L."
+        },
+        {
+            "plant": "Catharanthus roseus",
+            "compound": "Ursolic acid, Daucesterol, Tetrahydroalstonine, Beta-sitosterol, Vindoline",
+            "evidence": "Table 2: Chemical composition of Catharanthus roseus (L)."
+        },
+        {
+            "plant": "Plumeria alba",
+            "compound": "Linalool, n-nonanal, Phenyl acetaldehyde, Nerylacetone, Alpha-amyrin, Alpha-amyrin acetate, Alpha amyryl octadecanoate, Taraxasterol acetate",
+            "evidence": "Table 3: Chemical Composition of Plumeria alba"
+        }
+    ],
+    "location": [
+        {
+            "plant": "Carissa carandas",
+            "location": "Bangladesh, Chittagong",
+            "evidence": "The medicinal plants of Bangladesh South Asian countries have a large number of valuable medicinal plants naturally growing mostly in fragile ecosystems that are predominantly inhabited by rural poor and indigenous community."
+        },
+        {
+            "plant": "Catharanthus roseus",
+            "location": "Bangladesh",
+            "evidence": null
+        },
+        {
+            "plant": "Nerium oleander",
+            "location": "Bangladesh",
+            "evidence": null
+        },
+        {
+            "plant": "Plumeria alba",
+            "location": "Bangladesh",
+            "evidence": null
+        },
+        {
+            "plant": "Tabernaemontana divaricata",
+            "location": "Bangladesh",
+            "evidence": null
+        }
+    ]
+}

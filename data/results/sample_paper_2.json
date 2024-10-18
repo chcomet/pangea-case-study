@@ -1,0 +1,183 @@
+{
+    "disease": [
+        {
+            "plant": "Cestrum auriculatum",
+            "disease/activity": "fever, rheumatism, cough, bronchitis, colic of the stomach, high blood pressure, diabetes",
+            "evidence": "The leaf decoction is taken orally to treat fever, typhoid fever, rheumatism, cough, bronchitis, colic of the stomach, high blood pressure, and diabetes"
+        },
+        {
+            "plant": "Vestia lycioides",
+            "disease/activity": "anti-inflammatory",
+            "evidence": "The mother liquor, fr. 1-A-sol, inhibited writhing in mice at and inhibited contraction induced by PGs or ACh at . Fr. 1-A-sol was also evaluated for its ability to inhibit electrical-stimulation-induced contractions of guinea pig ilea."
+        },
+        {
+            "plant": "Cestrumine A",
+            "disease/activity": "writhing",
+            "evidence": "Cestrumine A ( 1 ) inhibited writhing significantly at a dose of ( , ), although it did not show inhibition at a lower dose."
+        },
+        {
+            "plant": "Cestrumine B",
+            "disease/activity": "inhibition",
+            "evidence": "Cestrumine B ( 2 ), the aglycone of 1 , showed significant inhibition at low doses of ) and , )."
+        },
+        {
+            "plant": "Lignan 3",
+            "disease/activity": "anal-gesic activity",
+            "evidence": "Lignan 3 also showed anal-gesic activity at doses of ( , ) and ( , )."
+        },
+        {
+            "plant": "Cestrum species",
+            "disease/activity": "anti-inflammatory and analgesic activities",
+            "evidence": "Two lots of . auric ul atum (herb 1 and herb 2) and one lot of C. he di und in um (herb 3) were examined for their anti-inflammatory and analgesic activities."
+        },
+        {
+            "plant": "Hierba santa",
+            "disease/activity": "anti-inflammatory and analgesic activities",
+            "evidence": "Therefore, all three lots of hierba santa showed anti-inflammatory and analgesic activities."
+        },
+        {
+            "plant": "Ursolic acid",
+            "disease/activity": "writhing inhibition",
+            "evidence": "Ursolic acid ( 9 ) has been reported to exhibit writhing inhibition."
+        },
+        {
+            "plant": "-Sitosteryl glucoside",
+            "disease/activity": "writhing inhibition",
+            "evidence": "Writhing was inhibited by -sitosteryl glucoside ( 10 ) at a dose of ."
+        },
+        {
+            "plant": "sec-Butyl phenol-type compound 11",
+            "disease/activity": "analgesic activity",
+            "evidence": "sec -Butyl phenol-type compound 11 also exhibited analgesic activity at doses of ( , ) and ( , )."
+        },
+        {
+            "plant": "Fatty acids",
+            "disease/activity": "hypo thermic effect",
+            "evidence": "The hypo thermic effect was observed in palmitic acid at a dose of , )."
+        }
+    ],
+    "compound": [
+        {
+            "plant": "Cestrum auriculatum",
+            "compound": "cestrumine A",
+            "evidence": "Activity-based separation of each extract yielded cestrumines A and B..."
+        },
+        {
+            "plant": "Cestrum auriculatum",
+            "compound": "cestrusides A and B",
+            "evidence": "Activity-based separation of each extract yielded cestrumines A and B, cestrusides A and B..."
+        },
+        {
+            "plant": "Cestrum auriculatum",
+            "compound": "-sitosteryl glucoside",
+            "evidence": "Among them, cestrumine A and cestrusides A and B are new compounds. All three lots of hierba santa..."
+        },
+        {
+            "plant": "Cestrum auriculatum",
+            "compound": "nicotin",
+            "evidence": "Among them, cestrumine A and cestrusides A and B are new compounds. All three lots of hierba santa..."
+        },
+        {
+            "plant": "Cestrum auriculatum",
+            "compound": "rutin",
+            "evidence": "Among them, cestrumine A and cestrusides A and B are new compounds. All three lots of hierba santa..."
+        },
+        {
+            "plant": "Cestrum auriculatum",
+            "compound": "sinapoyl glucose",
+            "evidence": "Among them, cestrumine A and cestrusides A and B are new compounds. All three lots of hierba santa..."
+        },
+        {
+            "plant": "Cestrum auriculatum",
+            "compound": "urso-lic acid",
+            "evidence": "Among them, cestrumine A and cestrusides A and B are new compounds. All three lots of hierba santa..."
+        },
+        {
+            "plant": "Cestrum auriculatum",
+            "compound": "2-sec-butyl-4,6-dihydroxyphenyl-D-glucopyranoside",
+            "evidence": "Among them, cestrumine A and cestrusides A and B are new compounds. All three lots of hierba santa..."
+        },
+        {
+            "plant": "Cestrum auriculatum",
+            "compound": "active components",
+            "evidence": "We present herein the active components in hierba santa as well as their anti-inflammatory and analgesic activities"
+        },
+        {
+            "plant": "Vestia lycioides",
+            "compound": "1-acetyl-3-methoxycarbonyl-carboline",
+            "evidence": "After the aglycone was esterified with dicyclohexylcarbodiimide, dimethylaminopyridine, and methanol, the methyl ester was identified as 1-acetyl-3-methoxycarbonyl-carboline, which was isolated from .lycioides."
+        },
+        {
+            "plant": "Ursolic acid",
+            "compound": "Ursolic acid",
+            "evidence": "Compounds 9 and 10 were identified as ursolic acid and -sitosteryl glucoside, respectively, by direct comparison of -NMR and TLC with authentic compounds."
+        },
+        {
+            "plant": "-Sitosteryl glucoside",
+            "compound": "-Sitosteryl glucoside",
+            "evidence": "Compounds 9 and 10 were identified as ursolic acid and -sitosteryl glucoside, respectively, by direct comparison of -NMR and TLC with authentic compounds."
+        },
+        {
+            "plant": "Hierba santa",
+            "compound": "2-sec-butyl-4,6-dihydroxyphenyl-D-glucopyranoside",
+            "evidence": "Compound 11, a white amorphous powder, had a molecular weight of 344 as determined by FAB-MS. NMR spectral analysis, including 2D-NMR analysis, gave 2-sec-butyl-4,6-dihydroxyphenyl-D-glucopyranoside, whose structure was identical with that of cesternoside A isolated from Cestrum nocturnum [15]."
+        },
+        {
+            "plant": "Cestrumine A",
+            "compound": "cestrumine B",
+            "evidence": "Cestrumine B ( 2 ), the aglycone of 1 , showed significant inhibition at low doses of ) and , )."
+        },
+        {
+            "plant": "sec-Butyl phenol-type compound 11",
+            "compound": "11",
+            "evidence": "Compound 11 showed hypo thermic effect at a dose of , , )."
+        },
+        {
+            "plant": "Fatty acids",
+            "compound": "palmitic acid",
+            "evidence": "The hypo thermic effect was observed in palmitic acid at a dose of , )."
+        },
+        {
+            "plant": "Cestrum species",
+            "compound": "lignan 3",
+            "evidence": "In herb 3, -carbolines, cest ru mines A ( 1 ) and B ( 2 ), and lignan 3 seemed to contribute to the activity."
+        },
+        {
+            "plant": "Hierba santa",
+            "compound": "-Sitosteryl glucoside ( 10 )",
+            "evidence": "-Sitosteryl glucoside ( 10 ) may somewhat contribute to the efficacy of herb 2."
+        }
+    ],
+    "location": [
+        {
+            "plant": "Cestrum auriculatum",
+            "location": "Peru",
+            "evidence": "Three lots of hierba santa: Cestrum auriculatum (herb 1 and herb 2) and Cestrum diurnum (herb 3), which were purchased from Peruvian markets at Cuzco (Andes area) and Equitos (Amazon area)..."
+        },
+        {
+            "plant": "Cestrum auriculatum",
+            "location": "Peru",
+            "evidence": "Several plants of the genus Cestrum (Solanaceae) grow in Peru and they are expected to have similar pharmacological activities, such as anti-inflammatory and analgesic activities."
+        },
+        {
+            "plant": "Cestrum auriculatum",
+            "location": "Andes",
+            "evidence": "We purchased three lots of hierba santa from local markets at Cuzco (Andes area) and Equitos (Amazon area) and identified them as C. auriculatum (herb 1 and herb 2) and C. heduinum (herb 3), respectively"
+        },
+        {
+            "plant": "Cestrum auriculatum",
+            "location": "Amazon",
+            "evidence": "We purchased three lots of hierba santa from local markets at Cuzco (Andes area) and Equitos (Amazon area) and identified them as C. auriculatum (herb 1 and herb 2) and C. heduinum (herb 3), respectively"
+        },
+        {
+            "plant": "Vestia lycioides",
+            "location": "Peru",
+            "evidence": "The structure of the aglycone, 1-acetyl--carboline-3-carboxylic acid, was already reported in Vestia lycioides (Solanaceae)"
+        },
+        {
+            "plant": "Hierba santa",
+            "location": "Peru",
+            "evidence": "Hierba santa is used in Peru to alleviate many symptoms."
+        }
+    ]
+}
